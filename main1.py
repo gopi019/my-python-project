@@ -12,7 +12,7 @@ def check_inputs():
 
 
 def show_msg():
-    print(f"{name} is a {designation}. He has {experience} of experience in IT industry. He will be promoted to {nextRole} next year")
+    print(f"{name} is a {designation}. He has {experience} of experience in IT industry. He will be promoted to {nextRole} shortly")
 
 
 check_inputs()
